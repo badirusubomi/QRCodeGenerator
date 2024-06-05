@@ -1,8 +1,10 @@
-# QRCodeGenerator
+## QRCodeGenerator
 
-executable file: qrCodeUI.exe
-required external modules:
+# executable file: 
+QRCodeGenerator.exe
 
-PyQt5
-qrcode
-json
+## required external modules:
+
+* PyQt5
+* qrcode
+* json
