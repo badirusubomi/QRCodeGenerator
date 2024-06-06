@@ -1,9 +1,9 @@
 ## QRCodeGenerator
 
-# executable file: 
+# Executable file: 
 QRCodeGenerator.exe
 
-## required external modules:
+# Required external modules:
 
 * PyQt5
 * qrcode
