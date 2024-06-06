@@ -1,4 +1,4 @@
-# QRCodeGenerator
+# QRCodeGenerator - README
 
 ## Executable file: 
 QRCodeGenerator.exe
